@@ -83,7 +83,7 @@ public class ArrayList<E> implements List<E>
 	}
 
 	/**
-	 * Replaces the element at the specified position in this list with the
+	 * Replaces  element at the specified position in this list with the
 	 * specified element.
 	 */
 	public E set(int index, E e) {
